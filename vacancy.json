@@ -1,0 +1,58 @@
+{"d" : {
+        "results" : [
+            {"__metadata" : {
+                    "uri" : "https://api012.successfactors.eu/odata/v2/JobRequisition(23L)", "type" : "SFOData.JobRequisition"
+                }, "jobReqId" : "23", "custom_agreement" : null, "custom_percent_variable" : null, "custom_onboard_plan" : null, "lastModifiedDateTime" : "\/Date(1529912612000+0000)\/", "custom_prof_category" : null, "ratedApplicantCount" : "0", "custom_monthly_salary1" : null, "custom_EBB" : null, "custom_vacation" : null, "age" : "38", "reverseScale" : "0", "custom_contract_period" : null, "formDataId" : "56", "custom_economic_proposal" : null, "closedDateTime" : null, "statusSetId" : "2", "deleted" : "Deleted", "custom_gross_salary" : null, "openingsFilled" : "0", "timeToFill" : null, "lastModifiedBy" : "1011552", "createdDateTime" : "\/Date(1526551670000+0000)\/", "internalStatus" : "Approved", "custom_report_line" : null, "instruction2" : null, "positionNumber" : "2171", "instruction3" : null, "custom_holiday" : null, "instruction4" : null, "lastModifiedProxyUserId" : "1011552", "instrJobDetails" : null, "numberOpenings" : "1", "custom_13thmonth" : null, "currency" : "EUR", "custom_training_plan" : null, "erpAmount" : null, "formDueDate" : "\/Date(1527112800000+0000)\/", "instruction1" : null, "jobReqGUId" : null, "isDraft" : null, "templateType" : "JOB_REQ", "hiringManagerNote" : null, "salaryMin" : "50000", "custom_probation_period" : null, "defaultLanguage" : "en_GB", "custom_ann_salary" : null, "appTemplateId" : "7", "templateId" : "8", "overallScaleName" : null, "targetBonusPercent" : null, "intranetPosting" : false, "custom_monthly_salary" : null, "assessRatingScaleName" : "Athlon rating scale", "custom_offer_acc_date" : null, "corporatePosting" : false, "custom_workhours" : null, "candidateProgress" : "0", "cust_job_description" : "ll", "sourcer" : {
+                    "__deferred" : {
+                        "uri" : "https://api012.successfactors.eu/odata/v2/JobRequisition(23L)/sourcer"
+                    }
+                }, "division_obj" : {
+                    "__metadata" : {
+                        "uri" : "https://api012.successfactors.eu/odata/v2/FODivision(externalCode='DIV_INT_006',startDate=datetime'1900-01-01T00:00:00')", "type" : "SFOData.FODivision"
+                    }, "startDate" : "\/Date(-2208988800000)\/", "externalCode" : "DIV_INT_006", "description_it_IT" : null, "description_defaultValue" : "HR", "description_de_DE" : null, "endDate" : "\/Date(253402214400000)\/", "lastModifiedDateTime" : "\/Date(1524655714000+0000)\/", "description_en_DEBUG" : null, "name_en_DEBUG" : null, "description" : "HR", "description_localized" : "HR", "name" : "HR", "name_localized" : "HR", "name_defaultValue" : "HR", "name_fr_FR" : null, "name_en_US" : "HR", "description_fr_FR" : null, "description_en_GB" : "HR", "description_en_US" : "HR", "headOfUnit" : null, "name_nl_NL" : null, "status" : "A", "name_it_IT" : null, "parent" : null, "lastModifiedOn" : "\/Date(1524662914000)\/", "createdOn" : "\/Date(1524661756000)\/", "createdBy" : "Admin_EC", "description_nl_NL" : null, "name_de_DE" : null, "createdDateTime" : "\/Date(1524654556000+0000)\/", "lastModifiedBy" : "Admin_EC", "name_en_GB" : "HR", "descriptionTranslationNav" : {
+                        "__deferred" : {
+                            "uri" : "https://api012.successfactors.eu/odata/v2/FODivision(externalCode='DIV_INT_006',startDate=datetime'1900-01-01T00:00:00')/descriptionTranslationNav"
+                        }
+                    }
+                }, "jobReqPostings" : {
+                    "results" : [
+                        {
+                            "__metadata" : {
+                                "uri" : "https://api012.successfactors.eu/odata/v2/JobRequisitionPosting(jobPostingId=21L,jobReqId=23L)", "type" : "SFOData.JobRequisitionPosting"
+                            }, "jobPostingId" : "21", "jobReqId" : "23", "postingStatus" : "Expired", "postStartDateOffset" : "\/Date(1526634962000+0000)\/",
+                            "postStartDate" : "\/Date(1526642162000)\/", "boardId" : "_external", "channelId" : null, "extPartnerAccountId" : "0",
+                            "lastModifiedDateTime" : "\/Date(1529912612000+0000)\/", "agencyComments" : null, "postEndDate" : "\/Date(1526774399000)\/",
+                            "lastModifiedBy" : "1011552", "postedBy" : "1011608", "postEndDateOffset" : "\/Date(1526767199000+0000)\/", "boardName" : null, "jobRequisition" : {
+                            "__deferred" : {
+                                "uri" : "https://api012.successfactors.eu/odata/v2/JobRequisitionPosting(jobPostingId=21L,jobReqId=23L)/jobRequisition"
+                            }
+                        }
+                        }
+                    ]
+                }, "location_obj" : {
+                    "results" : [
+                        {
+                            "__metadata" : {
+                                "uri" : "https://api012.successfactors.eu/odata/v2/FOLocation(externalCode='Netherlands - Almere',startDate=datetime'1900-01-01T00:00:00')", "type" : "SFOData.FOLocation"
+                            }, "startDate" : "\/Date(-2208988800000)\/", "externalCode" : "Netherlands - Almere", "status" : "A", "endDate" : "\/Date(253402214400000)\/", "lastModifiedOn" : "\/Date(1524745636000)\/", "lastModifiedDateTime" : "\/Date(1524738436000+0000)\/", "createdOn" : "\/Date(1524652981000)\/", "timezone" : "Europe/Amsterdam", "createdBy" : "Admin_EC", "geozoneFlx" : null, "description" : null, "name" : "Netherlands - Almere", "createdDateTime" : "\/Date(1524645781000+0000)\/", "lastModifiedBy" : "Admin_EC", "locationGroup" : null, "standardHours" : "40", "geozoneFlxNav" : {
+                            "__deferred" : {
+                                "uri" : "https://api012.successfactors.eu/odata/v2/FOLocation(externalCode='Netherlands - Almere',startDate=datetime'1900-01-01T00:00:00')/geozoneFlxNav"
+                            }
+                        }, "addressNavDEFLT" : {
+                            "__metadata" : {
+                                "uri" : "https://api012.successfactors.eu/odata/v2/FOCorporateAddressDEFLT(67M)", "type" : "SFOData.FOCorporateAddressDEFLT"
+                            }, "addressId" : "67", "startDate" : "\/Date(-2208988800000)\/", "state" : null, "address1" : null, "endDate" : "\/Date(253402214400000)\/", "address2" : null, "lastModifiedDateTime" : "\/Date(1524738436000+0000)\/", "address3" : null, "city" : null, "zipCode" : null, "province" : null, "lastModifiedOn" : "\/Date(1524745636000)\/", "country" : "NLD", "createdOn" : "\/Date(1524745636000)\/", "address7" : null, "address6" : null, "address5" : null, "address4" : null, "createdBy" : "Admin_EC", "county" : null, "address9" : null, "address8" : null, "lastModifiedBy" : "Admin_EC", "createdDateTime" : "\/Date(1524738436000+0000)\/", "address10" : null, "address11" : null, "address5Nav" : {
+                                "__deferred" : {
+                                    "uri" : "https://api012.successfactors.eu/odata/v2/FOCorporateAddressDEFLT(67M)/address5Nav"
+                                }
+                            }
+                        }
+                        }
+                    ]
+                }, "jobReqLocale" : {
+                    "results" : [
+                        {"jobTitle" : "Test Internal Job Title" }
+                    ]
+                }
+}}
+}
